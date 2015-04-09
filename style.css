@@ -1,0 +1,18 @@
+.container{
+	background: url("Blu-BKGD.jpg") no-repeat;
+	width : 20%;
+	height: 20%;
+	padding: 40px;
+	margin:auto;
+	color: #fff;
+}
+select{
+	padding: 5px;
+	margin-bottom: 15px;
+}
+#sp_pizza{
+	display: none;
+}
+body{
+	background: url("pizza3.jpg") no-repeat;
+}
